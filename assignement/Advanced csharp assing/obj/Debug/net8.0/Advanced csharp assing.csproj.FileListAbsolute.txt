@@ -1,0 +1,14 @@
+D:\rowad\C#\day4\Advanced csharp assing\bin\Debug\net8.0\Advanced csharp assing.exe
+D:\rowad\C#\day4\Advanced csharp assing\bin\Debug\net8.0\Advanced csharp assing.deps.json
+D:\rowad\C#\day4\Advanced csharp assing\bin\Debug\net8.0\Advanced csharp assing.runtimeconfig.json
+D:\rowad\C#\day4\Advanced csharp assing\bin\Debug\net8.0\Advanced csharp assing.dll
+D:\rowad\C#\day4\Advanced csharp assing\bin\Debug\net8.0\Advanced csharp assing.pdb
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.GeneratedMSBuildEditorConfig.editorconfig
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.AssemblyInfoInputs.cache
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.AssemblyInfo.cs
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.csproj.CoreCompileInputs.cache
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.dll
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\refint\Advanced csharp assing.dll
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.pdb
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\Advanced csharp assing.genruntimeconfig.cache
+D:\rowad\C#\day4\Advanced csharp assing\obj\Debug\net8.0\ref\Advanced csharp assing.dll

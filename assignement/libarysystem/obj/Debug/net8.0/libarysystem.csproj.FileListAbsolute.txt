@@ -1,0 +1,14 @@
+D:\rowad\C#\day4\libarysystem\bin\Debug\net8.0\libarysystem.deps.json
+D:\rowad\C#\day4\libarysystem\bin\Debug\net8.0\libarysystem.dll
+D:\rowad\C#\day4\libarysystem\bin\Debug\net8.0\libarysystem.pdb
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.AssemblyInfoInputs.cache
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.AssemblyInfo.cs
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.csproj.CoreCompileInputs.cache
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.dll
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\refint\libarysystem.dll
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.pdb
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\ref\libarysystem.dll
+D:\rowad\C#\day4\libarysystem\bin\Debug\net8.0\libarysystem.exe
+D:\rowad\C#\day4\libarysystem\bin\Debug\net8.0\libarysystem.runtimeconfig.json
+D:\rowad\C#\day4\libarysystem\obj\Debug\net8.0\libarysystem.genruntimeconfig.cache
